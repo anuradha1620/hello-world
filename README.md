@@ -1,3 +1,3 @@
 # hello-world
 New repo
-Test - defect
+Test - defects
